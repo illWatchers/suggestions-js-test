@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:illWatchers/suggestions-js-test.git",
   "author": "illWatchers",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@tensorflow/tfjs": "0.13.5"
+  }
 }
